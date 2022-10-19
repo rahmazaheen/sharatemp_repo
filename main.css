@@ -1,0 +1,79 @@
+	body,
+	html {
+	    margin: 0;
+	    padding: 0;
+	    height: 100%;
+	    background-color: #eba48f;
+	}
+
+	.profile-container {
+	    display: block;
+	    margin: auto;
+	    padding: none;
+	    background-color: #eba48f;
+	    width: 100%;
+	}
+
+	.userpfp {
+	    display: block;
+	    margin: auto;
+	    height: 200px;
+	    width: 200px;
+	    border-radius: 100%;
+	    object-fit: contain;
+	}
+
+	.userInfo {
+	    display: block;
+	    margin: auto;
+	}
+
+	.signout {
+	    display: block;
+	    text-align: right;
+	}
+
+	.navbar {
+	    display: block;
+	    margin: auto;
+	    background-color: #d8ece6;
+	}
+
+	.nav-align {
+	    text-align: center;
+	}
+
+	.dropdown-menu {
+	    background-color: #d8ece6;
+	    border-radius: 6%;
+
+	}
+
+	.add-menu {
+	    color: grey;
+	    text-align: center;
+	}
+
+	.img-fluid {
+	    height: 250px;
+	    width: 250px;
+	}
+
+	img {
+	    object-fit: contain;
+	}
+
+	.carousel-align {
+	    display: block;
+	    margin: auto;
+	    padding: 0;
+	}
+
+	.gridImg {
+	    height: 300px;
+	    width: 300px;
+	    padding: 0;
+	    margin: auto;
+	    display: block;
+	    object-fit: contain;
+	}
